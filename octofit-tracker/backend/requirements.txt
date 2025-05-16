@@ -1,0 +1,2 @@
+# Required Python packages for OctoFit Tracker
+Django==4.1
